@@ -46,25 +46,3 @@ Please review [our security policy](https://github.com/octobercms/october/securi
 ## Development Team
 
 October CMS was created by [Alexey Bobkov](https://www.linkedin.com/in/alexey-bobkov-232ba02b/) and [Samuel Georges](https://www.linkedin.com/in/samuel-georges-0a964131/), who both continue to develop the platform.
-
-## Foundation library
-
-The CMS uses [Laravel](https://laravel.com) as a foundation PHP framework.
-
-## Contact
-
-For announcements and updates:
-
-* [Contact Us Page](http://octoberdev.test/contact)
-* [Follow us on Twitter](https://twitter.com/octobercms)
-* [Like us on Facebook](https://facebook.com/octobercms)
-
-To chat or hang out:
-
-* [Join us on Slack](https://octobercms-slack.herokuapp.com/)
-* [Join us on Discord](https://discord.gg/gEKgwSZ)
-* [Join us on Telegram](https://t.me/octoberchat)
-
-## License
-
-The October CMS platform is licensed software, see [End User License Agreement](./LICENSE.md) (EULA) for more details.
